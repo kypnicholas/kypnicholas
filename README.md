@@ -11,4 +11,10 @@ Therefore, I am in the process of gradually updating this space with personal si
 <a href="https://www.linkedin.com/in/nicolaoskyprianou/" rel="nofollow"><img src="https://camo.githubusercontent.com/d7bb758f74334d5fd5199dfd6ad6bbb3d068eac0d3c3fa1dfafc1c25eba7e185/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/kypnicholas"><img src="https://camo.githubusercontent.com/537a691f5001345a0bde6d7b601390b0604fbfa2369cab67787faca846f95d8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=flat&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://kypnicholas.com"><img src="https://img.shields.io/badge/kypnicholas.com-%2336454F.svg?style=flat&logoColor=white" alt="kypnicholas.com" style="max-width: 100%;"></a>
+
+<a href="mailto:kypnicholas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Mail" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/nicolaoskyprianou/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"></a>
+<a href="https://github.com/kypnicholas" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
+<a href="https://kypnicholas.com" target="_blank"><img src="https://img.shields.io/badge/kypnicholas.com-%2336454F.svg?style=flat&logo=hackthebox&logoColor=white" alt="kypnicholas.com" style="max-width: 100%;"></a>
+  
 </p>
