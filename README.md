@@ -1,6 +1,6 @@
 ## Hi there, welcome to my page  👋 
 
-I am Nicolaos, a software developer from Cyprus 🇨🇾 currently based near Frankfurt, Germany 
+I am Nicolaos, a software developer from Cyprus 🇨🇾 currently based near Frankfurt, Germany  🇩🇪
 
 I’m a Pega Decisioning and System Architect by day, and a full-time dad (to an awesome boy and a dog with way too much energy) by night. I’ve got a habit of tinkering with different tech —sometimes creating cool things, more often breaking them— but always learning something new. ⚙️
 
