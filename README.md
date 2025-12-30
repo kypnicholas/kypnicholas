@@ -30,4 +30,5 @@ Therefore, I am in the process of gradually updating this space with personal si
 <a href="https://www.linkedin.com/in/nicolaoskyprianou/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"></a>
 <a href="https://github.com/kypnicholas" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
 <a href="https://kypnicholas.com" target="_blank"><img src="https://img.shields.io/badge/kypnicholas.com-%2336454F.svg?style=flat&logo=hackthebox&logoColor=white" alt="kypnicholas.com" style="max-width: 100%;"></a>
+<a href="https://lab.kypnicholas.com" target="_blank"><img src="https://img.shields.io/badge/lab.kypnicholas.com-%2336454F.svg?style=flat&logo=hackthebox&logoColor=white" alt="kypnicholas.com" style="max-width: 100%;"></a>
 </p>
