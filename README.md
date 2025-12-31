@@ -22,6 +22,7 @@ Therefore, I am in the process of gradually updating this space with personal si
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Selenium-000?style=flat&logo=selenium" alt="Selenium" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/TestNG-000?style=flat&logo=testng" alt="TestNG" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Cucumber-000?style=flat&logo=cucumber" alt="Cucumber" style="max-width: 100%;"></a>
+<a href="https://shields.io"><img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat&logo=githubactions" alt="GitHub Actions" style="max-width: 100%;"></a>
 </p>
 
 <p dir="auto"><strong>Connect with me:</strong></p>
