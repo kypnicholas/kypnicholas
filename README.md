@@ -8,20 +8,17 @@ My professional experience involves architecting high-impact decisioning solutio
 
 Therefore, I am in the process of gradually updating this space with personal side projects and POC's that I am experimenting with. 
 
-<p dir="auto"><strong>Below is a list of languages and technologies that I am currently (or previously) experimenting with:</strong></p>
+<p dir="auto"><strong>Below is a list of languages and technologies that I am currently (or recently) experimenting with:</strong></p>
 <p dir="auto">
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Pega-000?style=flat&logo=pega" alt="Pega" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/AWS-000?style=flat&logo=amazonwebservices" alt="AWS" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Python-000?style=flat&logo=python" alt="Python" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/HTML5-000?style=flat&logo=html5" alt="HTML" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript" alt="JavaScript" style="max-width: 100%;"></a>
+  <a href="https://shields.io"><img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3" alt="CSS" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Tailwind_CSS-000?style=flat&logo=tailwindcss" alt="Tailwind CSS" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/SQL-000?style=flat&logo=mysql" alt="SQL" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Java-000?style=flat&logo=openjdk" alt="Java" style="max-width: 100%;"></a>
-<a href="https://shields.io"><img src="https://img.shields.io/badge/Maven-000?style=flat&logo=apachemaven" alt="Maven" style="max-width: 100%;"></a>
-<a href="https://shields.io"><img src="https://img.shields.io/badge/Selenium-000?style=flat&logo=selenium" alt="Selenium" style="max-width: 100%;"></a>
-<a href="https://shields.io"><img src="https://img.shields.io/badge/TestNG-000?style=flat&logo=testng" alt="TestNG" style="max-width: 100%;"></a>
-<a href="https://shields.io"><img src="https://img.shields.io/badge/Cucumber-000?style=flat&logo=cucumber" alt="Cucumber" style="max-width: 100%;"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/GitHub_Actions-000?style=flat&logo=githubactions" alt="GitHub Actions" style="max-width: 100%;"></a>
 </p>
 
