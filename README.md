@@ -5,7 +5,7 @@ I am Nicolaos, a software developer from Cyprus 🇨🇾 currently based near Fr
 I’m a Pega Decisioning and System Architect by day, and a full-time dad (to an awesome boy, a wonderful little girl and our dog Maggie with way too much energy) by night. 
 Outside Pega, I’ve got a habit of tinkering with different tech —sometimes creating cool things, more often breaking them— but always learning something new. ⚙️
 
-My professional experience involves architecting high-impact decisioning solutions across diverse sectors including Financial, Transport, Government, Digital Media, Marketing, and Telecommunications. Due to the sensitive nature and proprietary intellectual property involved, I cannot elaborate on great detail but feel free to ask!
+My professional experience involves architecting high-impact case management and decisioning solutions across diverse sectors including Financial, Transport, Government, Digital Media, Marketing, and Telecommunications. Due to the sensitive nature and proprietary intellectual property involved, I cannot elaborate on great detail but feel free to ask!
 
 Therefore, I am in the process of gradually updating this space with personal side projects and POC's that I am experimenting with. 
 
