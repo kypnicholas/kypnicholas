@@ -1,4 +1,6 @@
-## Hi there, welcome to my page  👋 
+## Nicolaos Kyprianou · Software Developer | Consultant
+
+12+ Years Building Enterprise Systems
 
 I am Nicolaos, a software developer from Cyprus 🇨🇾 currently based near Frankfurt, Germany  🇩🇪
 
